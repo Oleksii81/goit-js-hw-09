@@ -82,7 +82,7 @@ img {
   margin-right: 10px;
 }
 
-button[data-start] {
+.timer-btn {
   background-color: #a3de83;
   border: none;
   border-radius: 5px;
@@ -146,7 +146,7 @@ button[data-start] {
   border-radius: 15px;
   border: none;
   background-color: #f6e54f;
-  color: #fff;
+  color: #292121;
   font-weight: bold;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
   cursor: pointer;
